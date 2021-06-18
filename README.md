@@ -16,18 +16,3 @@ Don't forget to give a star if you like it :)
 
 ## Some images from the project
 
-https://github.com/yusufenesaras/abcd/blob/main/0.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/1.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/2.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/3.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/4.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/5.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/6.png?raw=true
-
-https://github.com/yusufenesaras/abcd/blob/main/7.png?raw=true
