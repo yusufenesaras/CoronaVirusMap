@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="folium.folium.Map.simple_marker" />
+          <option value="folium.folium.Map.circle_marker" />
+          <option value="folium.folium.Map.click_for_marker" />
+          <option value="folium.folium.Map.create_map" />
+          <option value="CoronavirusMap.stringcolor" />
+          <option value="methods.stringcolor" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
