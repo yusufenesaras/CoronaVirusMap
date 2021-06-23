@@ -6,7 +6,7 @@ def bringData():
 
     options = webdriver.ChromeOptions()
     
-    options.add_argument('headless')
+    options.add_argument('headless') //arkaplana atma işlemi
 
     url = "https://covid19.saglik.gov.tr/"
 
